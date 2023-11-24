@@ -1,0 +1,134 @@
+24-11-2023 09:42:57.777 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/wtc/LastKick/personalProjects/AutomationTestsForSocialLedger/.gauge/screenshots
+24-11-2023 09:42:57.779 [Gauge] [DEBUG] Plugin dotnet is already installed.
+24-11-2023 09:42:57.780 [Gauge] [DEBUG] Parsing started.
+24-11-2023 09:42:57.780 [Gauge] [DEBUG] Started concepts parsing.
+24-11-2023 09:42:57.780 [Gauge] [DEBUG] 0 concepts parsing completed.
+24-11-2023 09:42:57.781 [Gauge] [DEBUG] Started specifications parsing.
+24-11-2023 09:42:57.782 [Gauge] [ERROR] [ParseError] /home/wtc/LastKick/personalProjects/AutomationTestsForSocialLedger/Scenarios/Specs/login.spec:1 Spec should have atleast one scenario => ''
+24-11-2023 09:42:57.783 [Gauge] [DEBUG] 1 specifications parsing completed.
+24-11-2023 09:42:57.784 [Gauge] [DEBUG] Parsing completed.
+24-11-2023 09:42:58.644 [dotnet] [INFO] MSBuild version 17.4.0+18d5aef85 for .NET
+24-11-2023 09:42:58.645 [dotnet] [INFO] MSBUILD : error MSB1009: Project file does not exist.
+24-11-2023 09:42:58.645 [dotnet] [INFO] Switch: exercise-2.csproj
+24-11-2023 09:42:58.899 [dotnet] [ERROR] {"logLevel":"fatal","message":"Unable to build Project in \/home\/wtc\/LastKick\/personalProjects\/AutomationTestsForSocialLedger\ndotnet Project build failed.\nRan 'dotnet publish --runtime=linux-x64 --no-self-contained --configuration=release --output=\"\/home\/wtc\/LastKick\/personalProjects\/AutomationTestsForSocialLedger\/gauge_bin\"  \"exercise-2.csproj\" --verbosity=quiet'\n   at Gauge.Dotnet.GaugeProjectBuilder.BuildTargetGaugeProject() in \/home\/runner\/work\/gauge-dotnet\/gauge-dotnet\/src\/Gauge
+24-11-2023 09:42:58.899 [dotnet] [ERROR] ProjectBuilder.cs:line 46\n   at Gauge.Dotnet.StartCommand.TryBuild() in \/home\/runner\/work\/gauge-dotnet\/gauge-dotnet\/src\/StartCommand.cs:line 79"}
+24-11-2023 09:42:58.915 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+24-11-2023 09:42:58.915 [Gauge] [CRITICAL] Failed to start gauge API: Error occurred while waiting for runner process to finish.
+Error : exit status 1
+24-11-2023 09:44:46.450 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/wtc/LastKick/personalProjects/AutomationTestsForSocialLedger/.gauge/screenshots
+24-11-2023 09:44:46.451 [Gauge] [DEBUG] Plugin dotnet is already installed.
+24-11-2023 09:44:46.451 [Gauge] [DEBUG] Parsing started.
+24-11-2023 09:44:46.452 [Gauge] [DEBUG] Started concepts parsing.
+24-11-2023 09:44:46.453 [Gauge] [DEBUG] 0 concepts parsing completed.
+24-11-2023 09:44:46.453 [Gauge] [DEBUG] Started specifications parsing.
+24-11-2023 09:44:46.455 [Gauge] [ERROR] [ParseError] /home/wtc/LastKick/personalProjects/AutomationTestsForSocialLedger/Scenarios/Specs/login.spec:1 Spec should have atleast one scenario => ''
+24-11-2023 09:44:46.455 [Gauge] [DEBUG] 1 specifications parsing completed.
+24-11-2023 09:44:46.455 [Gauge] [DEBUG] Parsing completed.
+24-11-2023 09:44:47.316 [dotnet] [INFO] MSBuild version 17.4.0+18d5aef85 for .NET
+24-11-2023 09:44:47.355 [dotnet] [INFO] MSBUILD : error MSB1009: Project file does not exist.
+24-11-2023 09:44:47.355 [dotnet] [INFO] Switch: exercise-2.csproj
+24-11-2023 09:44:47.682 [dotnet] [ERROR] {"logLevel":"fatal","message":"Unable to build Project in \/home\/wtc\/LastKick\/personalProjects\/AutomationTestsForSocialLedger\ndotnet Project build failed.\nRan 'dotnet publish --runtime=linux-x64 --no-self-contained --configuration=release --output=\"\/home\/wtc\/LastKick\/personalProjects\/AutomationTestsForSocialLedger\/gauge_bin\"  \"exercise-2.csproj\" --verbosity=quiet'\n   at Gauge.Dotnet.GaugeProjectBuilder.BuildTargetGaugeProject() in \/home\/runner\/work\/gauge-dotnet\/gauge-dotnet\/src\/Gauge
+24-11-2023 09:44:47.682 [dotnet] [ERROR] ProjectBuilder.cs:line 46\n   at Gauge.Dotnet.StartCommand.TryBuild() in \/home\/runner\/work\/gauge-dotnet\/gauge-dotnet\/src\/StartCommand.cs:line 79"}
+24-11-2023 09:44:47.703 [Gauge] [ERROR] Error occurred while waiting for runner process to finish.
+Error : exit status 1
+24-11-2023 09:44:47.703 [Gauge] [CRITICAL] Failed to start gauge API: Error occurred while waiting for runner process to finish.
+Error : exit status 1
+24-11-2023 09:48:25.231 [Gauge] [DEBUG] Created gauge_screenshots_dir at /home/wtc/LastKick/personalProjects/AutomationTestsForSocialLedger/.gauge/screenshots
+24-11-2023 09:48:25.232 [Gauge] [DEBUG] Plugin dotnet is already installed.
+24-11-2023 09:48:25.233 [Gauge] [DEBUG] Parsing started.
+24-11-2023 09:48:25.233 [Gauge] [DEBUG] Started concepts parsing.
+24-11-2023 09:48:25.234 [Gauge] [DEBUG] 0 concepts parsing completed.
+24-11-2023 09:48:25.234 [Gauge] [DEBUG] Started specifications parsing.
+24-11-2023 09:48:25.236 [Gauge] [ERROR] [ParseError] /home/wtc/LastKick/personalProjects/AutomationTestsForSocialLedger/Scenarios/Specs/login.spec:1 Spec should have atleast one scenario => ''
+24-11-2023 09:48:25.236 [Gauge] [DEBUG] 1 specifications parsing completed.
+24-11-2023 09:48:25.236 [Gauge] [DEBUG] Parsing completed.
+24-11-2023 09:48:26.096 [dotnet] [INFO] MSBuild version 17.4.0+18d5aef85 for .NET
+24-11-2023 09:48:27.514 [Gauge] [DEBUG] Checking updates...
+24-11-2023 09:48:27.514 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/dotnet?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+24-11-2023 09:48:29.234 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+24-11-2023 09:48:29.773 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=dotnet&p=dotnet,html-report,screenshot&o=linux&a=amd64
+24-11-2023 09:48:34.033 [dotnet] [INFO] /home/wtc/LastKick/personalProjects/AutomationTestsForSocialLedger/Scenarios/GaugeSupport.cs(10,35): warning CS8618: Non-nullable field '_driver' must contain a non-null value when exiting constructor. Consider declaring the field as nullable. [/home/wtc/LastKick/personalProjects/AutomationTestsForSocialLedger/AutomationTestsForSocialLedger.csproj]
+24-11-2023 09:48:35.149 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+24-11-2023 09:48:35.162 [dotnet] [DEBUG] Using ExecutableRunnerServiceHandler
+24-11-2023 09:48:35.315 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 44407
+24-11-2023 09:48:35.362 [Gauge] [DEBUG] Successfully made the connection with runner with port: 44407
+24-11-2023 09:48:35.362 [Gauge] [DEBUG] Validation started.
+24-11-2023 09:48:35.362 [Gauge] [DEBUG] Validation completed.
+24-11-2023 09:48:35.362 [Gauge] [DEBUG] Run started
+24-11-2023 09:48:35.362 [Gauge] [DEBUG] Initialising suite data store.
+24-11-2023 09:48:35.798 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+24-11-2023 09:48:35.800 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+24-11-2023 09:48:35.802 [dotnet] [DEBUG] Try load coverlet.collector in GaugeLoadContext
+24-11-2023 09:48:35.807 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+24-11-2023 09:48:35.807 [dotnet] [DEBUG] Try load Microsoft.VisualStudio.TestPlatform.ObjectModel in GaugeLoadContext
+24-11-2023 09:48:35.808 [dotnet] [DEBUG] Try load coverlet.core in GaugeLoadContext
+24-11-2023 09:48:35.808 [dotnet] [DEBUG] Try load Microsoft.Extensions.DependencyInjection.Abstractions in GaugeLoadContext
+24-11-2023 09:48:35.808 [dotnet] [DEBUG] Try load Microsoft.TestPlatform.CoreUtilities in GaugeLoadContext
+24-11-2023 09:48:35.809 [dotnet] [DEBUG] Try load Microsoft.Extensions.DependencyInjection in GaugeLoadContext
+24-11-2023 09:48:35.809 [dotnet] [DEBUG] Try load System.Runtime in GaugeLoadContext
+24-11-2023 09:48:35.809 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+24-11-2023 09:48:35.809 [dotnet] [DEBUG] Try load System.Xml.ReaderWriter in GaugeLoadContext
+24-11-2023 09:48:35.873 [dotnet] [INFO] fail: Grpc.AspNetCore.Server.ServerCallHandler[6]
+24-11-2023 09:48:35.873 [dotnet] [INFO] Error when executing service method 'InitializeSuiteDataStore'.
+24-11-2023 09:48:35.873 [dotnet] [INFO] System.TypeLoadException: Method 'Initialize' in type 'Coverlet.Collector.DataCollection.CoverletCoverageCollector' from assembly 'coverlet.collector, Version=3.1.0.0, Culture=neutral, PublicKeyToken=4beb1ad7f05a1c71' does not have an implementation.
+24-11-2023 09:48:35.874 [dotnet] [INFO] at System.Reflection.RuntimeAssembly.GetExportedTypes()
+24-11-2023 09:48:35.874 [dotnet] [INFO] at Gauge.Dotnet.AssemblyLoader.ScanAndLoad(String path) in /home/runner/work/gauge-dotnet/gauge-dotnet/src/AssemblyLoader.cs:line 143
+24-11-2023 09:48:35.876 [dotnet] [INFO] at Gauge.Dotnet.AssemblyLoader..ctor(AssemblyPath assemblyPath, IGaugeLoadContext gaugeLoadContext, IReflectionWrapper reflectionWrapper, IActivatorWrapper activatorWrapper, IStepRegistry registry) in /home/runner/work/gauge-dotnet/gauge-dotnet/src/AssemblyLoader.cs:line 41
+24-11-2023 09:48:35.877 [dotnet] [INFO] at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+24-11-2023 09:48:35.882 [dotnet] [INFO] at System.Reflection.ConstructorInvoker.Invoke(Object obj, IntPtr* args, BindingFlags invokeAttr)
+24-11-2023 09:48:35.882 [dotnet] [INFO] at System.Reflection.RuntimeConstructorInfo.InvokeWithManyArguments(RuntimeConstructorInfo ci, Int32 argCount, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+24-11-2023 09:48:35.883 [dotnet] [INFO] at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+24-11-2023 09:48:35.883 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+24-11-2023 09:48:35.883 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+24-11-2023 09:48:35.886 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+24-11-2023 09:48:35.886 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+24-11-2023 09:48:35.887 [Gauge] [ERROR] failed to initialize suite datastore. Error: Exception was thrown by handler.
+24-11-2023 09:48:35.889 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+24-11-2023 09:48:35.889 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+24-11-2023 09:48:35.889 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+24-11-2023 09:48:35.889 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+24-11-2023 09:48:35.889 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(Type serviceType)
+24-11-2023 09:48:35.890 [dotnet] [INFO] at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+24-11-2023 09:48:35.890 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+24-11-2023 09:48:35.890 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetService[T](IServiceProvider provider)
+24-11-2023 09:48:35.890 [dotnet] [INFO] at Grpc.AspNetCore.Server.Internal.DefaultGrpcServiceActivator`1.Create(IServiceProvider serviceProvider)
+24-11-2023 09:48:35.890 [dotnet] [INFO] at Grpc.Shared.Server.UnaryServerMethodInvoker`3.Invoke(HttpContext httpContext, ServerCallContext serverCallContext, TRequest request)
+24-11-2023 09:48:35.891 [dotnet] [INFO] --- End of stack trace from previous location ---
+24-11-2023 09:48:35.891 [dotnet] [INFO] at Grpc.AspNetCore.Server.Internal.CallHandlers.UnaryServerCallHandler`3.HandleCallAsyncCore(HttpContext httpContext, HttpContextServerCallContext serverCallContext)
+24-11-2023 09:48:35.892 [dotnet] [INFO] at Grpc.AspNetCore.Server.Internal.CallHandlers.ServerCallHandlerBase`3.<HandleCallAsync>g__AwaitHandleCall|8_0(HttpContextServerCallContext serverCallContext, Method`2 method, Task handleCall)
+24-11-2023 09:48:35.902 [dotnet] [DEBUG] Loading assembly from : Gauge.Dotnet.AssemblyPath
+24-11-2023 09:48:35.902 [dotnet] [DEBUG] Try load Gauge.CSharp.Lib in GaugeLoadContext
+24-11-2023 09:48:35.902 [dotnet] [DEBUG] Try load netstandard in GaugeLoadContext
+24-11-2023 09:48:35.905 [dotnet] [INFO] fail: Grpc.AspNetCore.Server.ServerCallHandler[6]
+24-11-2023 09:48:35.905 [dotnet] [INFO] Error when executing service method 'Kill'.
+24-11-2023 09:48:35.905 [dotnet] [INFO] System.TypeLoadException: Method 'Initialize' in type 'Coverlet.Collector.DataCollection.CoverletCoverageCollector' from assembly 'coverlet.collector, Version=3.1.0.0, Culture=neutral, PublicKeyToken=4beb1ad7f05a1c71' does not have an implementation.
+24-11-2023 09:48:35.905 [dotnet] [INFO] at System.Reflection.RuntimeAssembly.GetExportedTypes()
+24-11-2023 09:48:35.905 [dotnet] [INFO] at Gauge.Dotnet.AssemblyLoader.ScanAndLoad(String path) in /home/runner/work/gauge-dotnet/gauge-dotnet/src/AssemblyLoader.cs:line 143
+24-11-2023 09:48:35.905 [dotnet] [INFO] at Gauge.Dotnet.AssemblyLoader..ctor(AssemblyPath assemblyPath, IGaugeLoadContext gaugeLoadContext, IReflectionWrapper reflectionWrapper, IActivatorWrapper activatorWrapper, IStepRegistry registry) in /home/runner/work/gauge-dotnet/gauge-dotnet/src/AssemblyLoader.cs:line 41
+24-11-2023 09:48:35.905 [dotnet] [INFO] at InvokeStub_AssemblyLoader..ctor(Object, Object, IntPtr*)
+24-11-2023 09:48:35.906 [dotnet] [INFO] at System.Reflection.ConstructorInvoker.Invoke(Object obj, IntPtr* args, BindingFlags invokeAttr)
+24-11-2023 09:48:35.906 [dotnet] [INFO] at System.Reflection.RuntimeConstructorInfo.InvokeWithManyArguments(RuntimeConstructorInfo ci, Int32 argCount, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+24-11-2023 09:48:35.906 [dotnet] [INFO] at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+24-11-2023 09:48:35.906 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+24-11-2023 09:48:35.906 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+24-11-2023 09:48:35.906 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+24-11-2023 09:48:35.907 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+24-11-2023 09:48:35.907 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+24-11-2023 09:48:35.907 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite callSite, RuntimeResolverContext context)
+24-11-2023 09:48:35.907 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+24-11-2023 09:48:35.907 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+24-11-2023 09:48:35.908 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceProvider.CreateServiceAccessor(Type serviceType)
+24-11-2023 09:48:35.909 [dotnet] [INFO] at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+24-11-2023 09:48:35.909 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+24-11-2023 09:48:35.909 [dotnet] [INFO] at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExten
+24-11-2023 09:48:35.909 [dotnet] [INFO] sions.GetService[T](IServiceProvider provider)
+24-11-2023 09:48:35.909 [dotnet] [INFO] at Grpc.AspNetCore.Server.Internal.DefaultGrpcServiceActivator`1.Create(IServiceProvider serviceProvider)
+24-11-2023 09:48:35.910 [dotnet] [INFO] at Grpc.Shared.Server.UnaryServerMethodInvoker`3.Invoke(HttpContext httpContext, ServerCallContext serverCallContext, TRequest request)
+24-11-2023 09:48:35.910 [dotnet] [INFO] --- End of stack trace from previous location ---
+24-11-2023 09:48:35.910 [dotnet] [INFO] at Grpc.AspNetCore.Server.Internal.CallHandlers.UnaryServerCallHandler`3.HandleCallAsyncCore(HttpContext httpContext, HttpContextServerCallContext serverCallContext)
+24-11-2023 09:48:35.910 [dotnet] [INFO] at Grpc.AspNetCore.Server.Internal.CallHandlers.ServerCallHandlerBase`3.<HandleCallAsync>g__AwaitHandleCall|8_0(HttpContextServerCallContext serverCallContext, Method`2 method, Task handleCall)
+24-11-2023 09:48:35.911 [Gauge] [INFO] Specifications:	0 executed	0 passed	0 failed	0 skipped
+24-11-2023 09:48:35.911 [Gauge] [INFO] Scenarios:	0 executed	0 passed	0 failed	0 skipped
+24-11-2023 09:48:35.911 [Gauge] [INFO] 
+Total time taken: 524ms
